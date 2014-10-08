@@ -19,3 +19,4 @@ release.properties
 pom.xml.*
 
 local.properties
+build/
